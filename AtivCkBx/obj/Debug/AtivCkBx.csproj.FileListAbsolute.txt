@@ -1,0 +1,10 @@
+C:\Users\David\Desktop\Etec\TP - Técnicas de Programação\AtivCkBx\AtivCkBx\bin\Debug\AtivCkBx.exe.config
+C:\Users\David\Desktop\Etec\TP - Técnicas de Programação\AtivCkBx\AtivCkBx\bin\Debug\AtivCkBx.exe
+C:\Users\David\Desktop\Etec\TP - Técnicas de Programação\AtivCkBx\AtivCkBx\bin\Debug\AtivCkBx.pdb
+C:\Users\David\Desktop\Etec\TP - Técnicas de Programação\AtivCkBx\AtivCkBx\obj\Debug\AtivCkBx.csproj.AssemblyReference.cache
+C:\Users\David\Desktop\Etec\TP - Técnicas de Programação\AtivCkBx\AtivCkBx\obj\Debug\AtivCkBx.Properties.Resources.resources
+C:\Users\David\Desktop\Etec\TP - Técnicas de Programação\AtivCkBx\AtivCkBx\obj\Debug\AtivCkBx.csproj.GenerateResource.cache
+C:\Users\David\Desktop\Etec\TP - Técnicas de Programação\AtivCkBx\AtivCkBx\obj\Debug\AtivCkBx.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Etec\TP - Técnicas de Programação\AtivCkBx\AtivCkBx\obj\Debug\AtivCkBx.exe
+C:\Users\David\Desktop\Etec\TP - Técnicas de Programação\AtivCkBx\AtivCkBx\obj\Debug\AtivCkBx.pdb
+C:\Users\David\Desktop\Etec\TP - Técnicas de Programação\AtivCkBx\AtivCkBx\obj\Debug\AtivCkBx.frmAmazon.resources
